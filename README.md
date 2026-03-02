@@ -346,16 +346,17 @@ The app was tested with diverse object categories to evaluate GPT-4o detection a
 
 ## Analysis
 
-Object recogition using mobile net <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/6e398c42-c217-4013-b08f-a5cafbcc74a8" />
 
-Object recognition before applying targeted prompted scanning <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/50a3550b-929f-4a2b-a910-c38a09bceb64" />
+Object recogition using mobile net locally <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/6e398c42-c217-4013-b08f-a5cafbcc74a8" />
+
+Object recognition before applying targeted prompted scanning and gemini 1.5 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/50a3550b-929f-4a2b-a910-c38a09bceb64" />
  <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/6321086b-b239-480f-807a-a3776aa373f2" />
 
 
 working recognition but a few tweaks needed  <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/087f5bda-99a4-4ebc-8f9d-e57c23daaa4c" /> <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/beb9301f-0180-4bef-abbc-8a8aff67a254" />
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1742aee-1775-485f-82cb-e9d23e3cca69" />
 
-See Full workflow with everything working in **demo video**
+See Full workflow with everything working in **demo video** using azure openai 4o
 
 ### Objective Achievement
 
