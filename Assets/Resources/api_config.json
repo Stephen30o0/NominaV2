@@ -1,0 +1,8 @@
+{
+    "azureOpenAIEndpoint": "https://nomina2.openai.azure.com",
+    "azureOpenAIKey": "YOUR_AZURE_OPENAI_KEY_HERE",
+    "azureOpenAIDeployment": "gpt-4o",
+    "azureSpeechKey": "YOUR_AZURE_SPEECH_KEY_HERE",
+    "azureSpeechRegion": "southafricanorth",
+    "huggingFaceToken": "YOUR_HUGGING_FACE_TOKEN_HERE"
+}
