@@ -235,9 +235,10 @@ Assets/
 
 ---
 
+
 ## Demo Video
 
-> **[Watch the 5-minute demo video here](./demo_video.mp4)**
+> **[Watch the 5-minute demo video here (Google Drive)](https://drive.google.com/file/d/1-RrNnUWKfRkletpY5Fx2x3KOe4joEb1A/view?usp=sharing)**
 
 The demo covers:
 1. App launch and onboarding flow
