@@ -453,9 +453,14 @@ The inclusion of **African languages** (Yoruba, Igbo, Hausa, Swahili, Zulu) addr
 
 ## Deployment
 
+
 ### Pre-built APK
 
-A ready-to-install APK is included in the repository root:
+A ready-to-install APK can be downloaded here:
+
+> **[Download Nomina.apk from Google Drive](https://drive.google.com/file/d/1i-bJf9_LNgCSXbQeMa_g_0gFtJl73RA_/view?usp=sharing)**
+
+Alternatively, the APK is also included in the repository root:
 
 ```
 Nomina.apk (66.8 MB)
