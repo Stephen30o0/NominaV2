@@ -23,6 +23,7 @@
 - [Discussion](#discussion)
 - [Recommendations & Future Work](#recommendations--future-work)
 - [Deployment](#deployment)
+- [Legal](#legal)
 
 ---
 
@@ -522,3 +523,9 @@ adb install Nomina.apk
 ## License
 
 This project was developed as a final-year capstone project. All third-party APIs are used under their respective free/trial tiers.
+
+## Legal
+
+For the project's End-User License Agreement and Privacy Policy, see:
+
+- [EULA and Privacy Policy](./EULA_AND_PRIVACY_POLICY.md)
